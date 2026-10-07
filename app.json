@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Daily Task Counter",
+    "slug": "daily-task-counter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.dailytaskcounter"
+    },
+    "android": {
+      "package": "com.example.dailytaskcounter"
+    }
+  }
+}
